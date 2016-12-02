@@ -7623,7 +7623,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 .slider {
   position: relative;
-  height: 400px;
+  height: 1000px;
   width: 100%;
 }
 
@@ -7649,7 +7649,7 @@ input[type=range]:focus::-ms-fill-upper {
 .slider .slides {
   background-color: #9e9e9e;
   margin: 0;
-  height: 400px;
+  height: 1000px;
 }
 
 .slider .slides li {
